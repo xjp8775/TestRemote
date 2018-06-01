@@ -10,6 +10,12 @@ class Person
 	
 };
 
+struct ServerInfoItem
+{
+    int   _id;
+    char  _name[50];
+};
+
 int main()  
 {  
    // char *ptr="linuxers.cn";  
@@ -17,7 +23,9 @@ int main()
 	
     int kk = 0;
     cout << "This is a test file" << endl;
-    
+        
+    ServerInfoItem server1;
+
 	Person * p = 0;
 	p->age = 45;
 	
