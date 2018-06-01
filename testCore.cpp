@@ -15,6 +15,7 @@ int main()
    // char *ptr="linuxers.cn";  
     //*ptr=0;  
 	
+    int kk = 0;
     cout << "This is a test file" << endl;
     
 	Person * p = 0;
