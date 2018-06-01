@@ -25,6 +25,9 @@ int main()
     cout << "This is a test file" << endl;
         
     ServerInfoItem server1;
+    ServerInfoItem server2;
+    server2._id = 999;
+
 
 	Person * p = 0;
 	p->age = 45;
