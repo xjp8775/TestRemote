@@ -3,6 +3,7 @@
 #include <vector>
 using namespace std;
 
+
 class Person
 {
 	public:
@@ -16,12 +17,17 @@ struct ServerInfoItem
     int   _id;
     char  _name[50];
 };
-
 vector<ServerInfoItem>  g_vectServers;
 bool FincExistServer(int serverId)
 {
     vector<ServerInfoItem>::iterator iterId = g_vectServers.find(serverId);
     return iterId == g_vectServers.end() ? false : true;
+}
+
+void TestSecondBranch()
+{
+    vector<ServerInfoItem> vectItems;
+
 }
 
 int main()  
@@ -36,6 +42,8 @@ int main()
     ServerInfoItem server2;
     server2._id = 999;
 
+    //this is a second branch
+    
 
 	Person * p = 0;
 	p->age = 45;
