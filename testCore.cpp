@@ -44,6 +44,7 @@ int main()
 
     //this is a second branch
     
+	int kkk = 0;
 
 	Person * p = 0;
 	p->age = 45;
