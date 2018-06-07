@@ -5,5 +5,8 @@ The secound add Text, 22222
 
 The third commit Test 3333 and is 444
 
+Test stage manager modifies.
+
+
 
 
