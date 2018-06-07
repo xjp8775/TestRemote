@@ -48,6 +48,8 @@ int main()
 
 	Person * p = 0;
 	p->age = 45;
+	int vari0607 = 50;
 	
  return 0;
+ 
 } 
