@@ -12,4 +12,4 @@ Test stage manager modifies 2222 AAAA;
 Test remote commit
 
 
-
+To fix a bug in master branch!
