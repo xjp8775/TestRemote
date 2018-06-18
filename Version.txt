@@ -6,3 +6,4 @@ another one modifyed this file to test git pull.
 
 Test undo a last remote commit .
 
+commit  1 
