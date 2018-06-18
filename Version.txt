@@ -7,3 +7,6 @@ another one modifyed this file to test git pull.
 Test undo a last remote commit .
 
 To fix a bug in master branch!
+
+commit  1 
+
