@@ -30,6 +30,12 @@ void TestSecondBranch()
 
 }
 
+void Test0912Func()
+{
+	int aaa = 0;
+	
+}
+
 int main()  
 {  
    // char *ptr="linuxers.cn";  
