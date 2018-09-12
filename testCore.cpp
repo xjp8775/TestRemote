@@ -30,6 +30,12 @@ void TestSecondBranch()
 
 }
 
+void FixABug()
+{
+	int hhh = 0;
+	int kkkd = 0;
+}
+
 int main()  
 {  
    // char *ptr="linuxers.cn";  
