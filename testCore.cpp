@@ -30,11 +30,23 @@ void TestSecondBranch()
 
 }
 
+int checkNum()
+{
+	return 3；
+}
+
 void Test0912Func()
 {
 	int aaa = 0;
-	
+	 //Test APP client
+	int kkk = 90;
+	int jj = aaa +kkk;
+	return;
 }
+
+
+
+
 
 int main()  
 {  
