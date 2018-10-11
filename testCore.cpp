@@ -45,6 +45,11 @@ void Test0912Func()
 }
 
 
+void tel_sip()
+{
+	
+	
+}
 
 
 int main()  
@@ -61,13 +66,11 @@ int main()
 
     //this is a second branch
     
+	int kkk = 0;
+
 	Person * p = 0;
 	p->age = 45;
 	int vari0607 = 50;
-	
-	//0912 3 rd
-	int dd = 0；
-	
 	
  return 0;
  
