@@ -31,6 +31,5 @@ Test bug branch commit
 test 123 20200409
 
 
-test 2 = 2;
-
 test 3=
+
