@@ -28,21 +28,3 @@ Test bug branch commit
 
 //remote branch add .
 
-20200402 01 commit
-
-20200402 02 commit
-
-20200402 03 commit
-
-
-20200408 02 ssss
-
-20200408 03 ssss
-
-20200408 02 ssss
-
-20200409 v1
-
-20200409 v2
-
-20200409 v3
