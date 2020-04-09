@@ -50,8 +50,6 @@ int main()
 	p->age = 45;
 	int vari0607 = 50;
 	
-	int k2 = 32;
-	
  return 0;
  
 } 
