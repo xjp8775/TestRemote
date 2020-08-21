@@ -28,8 +28,13 @@ Test bug branch commit
 
 //remote branch add .
 
+<<<<<<< HEAD
 000000
 
 20200821 01
 
 
+=======
+20200821 01
+		 02
+>>>>>>> 45a3b96... commit 0821 02
